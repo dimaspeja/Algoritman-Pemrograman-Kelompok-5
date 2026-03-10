@@ -1,4 +1,5 @@
 # Array 2 Dimensi
+Author: DIMAS PEJA KRISMONDI
 
 ## Membuat Array 2 Dimensi
 ```
@@ -71,3 +72,4 @@ Data yang ditampilkan:
 dengan begitu data yang ditampilkan adalah sebagai berikut:
 
 <img width="440" height="197" alt="Capture Hasil Array 2 Dimensi" src="https://github.com/user-attachments/assets/9ad3299f-bfd4-4d51-a915-b4ebe8523966" />
+
